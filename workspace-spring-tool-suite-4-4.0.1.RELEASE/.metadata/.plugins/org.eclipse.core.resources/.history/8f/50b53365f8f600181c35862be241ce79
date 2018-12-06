@@ -1,0 +1,5 @@
+package isep.web.sakila.dao.business;
+
+public class Business {
+
+}

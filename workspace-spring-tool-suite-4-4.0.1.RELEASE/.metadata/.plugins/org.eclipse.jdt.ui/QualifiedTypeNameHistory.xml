@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringRunner"/>
+<fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.web.WebAppConfiguration"/>
+<fullyQualifiedTypeName name="isep.web.sakila.jpa.config.DomainAndPersistenceConfig"/>
+<fullyQualifiedTypeName name="isep.web.sakila.SakilaBusinessDaoApplication"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.config.EnableJpaRepositories"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.domain.EntityScan"/>
+<fullyQualifiedTypeName name="isep.web.sakila.jpa.config.Config"/>
+<fullyQualifiedTypeName name="isep.web.sakila.jpa.entities.Actor"/>
+<fullyQualifiedTypeName name="isep.web.sakila.webapi.mode.WebObject"/>
+<fullyQualifiedTypeName name="isep.web.sakila.webapi.model.ActorWO"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
